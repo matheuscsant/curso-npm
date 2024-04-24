@@ -4,7 +4,9 @@
   "description": "Projeto para aprender a utilizar o node-npm",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo 'Iniciando servidor de producao'",
+    "dev": "echo 'Iniciando servidor de desenvolvimento'"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/matheuscsant/curso-npm/issues"
   },
-  "homepage": "https://github.com/matheuscsant/curso-npm#readme"
+  "homepage": "https://github.com/matheuscsant/curso-npm#readme",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  }
 }
