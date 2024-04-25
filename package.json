@@ -17,8 +17,5 @@
   "bugs": {
     "url": "https://github.com/matheuscsant/curso-npm/issues"
   },
-  "homepage": "https://github.com/matheuscsant/curso-npm#readme",
-  "devDependencies": {
-    "typescript": "^5.4.5"
-  }
+  "homepage": "https://github.com/matheuscsant/curso-npm#readme"
 }

@@ -42,4 +42,4 @@ Para isso devemos utilizar o comando `npm remove pacote` ou `npm r pacote`, ante
 Para isso devemos utilizar o comando `npm install pacote --save-dev` ou `npm i pacote -D`, aqui podemos instalar qualquer pacote, como por exemplo, o typescript, ficaria desta forma: `npm install typescript --save-dev` ou `npm i typescript -D`.
 
 ## Removendo pacotes de desenvolvimento no projeto
-Para isso devemos utilizar o comando `npm remove pacote` ou `npm r pacote`, anteriormente instalamos o typescript, para remover, basta usar os comandos dessa forma: `npm remove typescript --save-dev` e `npm remove typescript -D` .
+Para isso devemos utilizar o comando `npm remove pacote` ou `npm r pacote`, anteriormente instalamos o typescript, para remover, basta usar os comandos dessa forma: `npm remove typescript --save-dev` e `npm remove typescript -D`.
