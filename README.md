@@ -69,6 +69,6 @@ Para isso devemos utilizar o comando `npm remove pacote` ou `npm r pacote`, ante
 
 ## Comandos úteis
 
-### `node ./app.js`
-
-Serve para rodar um projeto node, desta forma mostramos ao node por onde começar, onde está o "main" do projeto, de lá ele começará a rodar o projeto.
+|     Comando     | Descrição                                                                                                                                              |
+| :-------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `node ./app.js` | Serve para rodar um projeto node, desta forma mostramos ao node por onde começar, onde está o "main" do projeto, de lá ele começará a rodar o projeto. |
